@@ -1,0 +1,9 @@
+Principais estruturas de dados : 
+
+Vetor
+Matriz
+Lista
+Pilha
+Fila
+Árvore 
+Grafo 
